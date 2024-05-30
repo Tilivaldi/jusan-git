@@ -10,11 +10,14 @@ echo "Данный репозиторий содержит скрипт для �
 ## Портирование
 Данный проект можно портировать на другие языки программирования
 На Java
-> Class Main {
->    public static void main (String[] args){
->        System.out.println("777");
->    }
-> }
+***
+Class Main {
+    public static void main (String[] args){
+        System.out.println("777");
+    }
+ }
+***
+
 C++
 > #include <iostream>
 > using namespase std;
